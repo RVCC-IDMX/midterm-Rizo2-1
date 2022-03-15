@@ -2,3 +2,29 @@
 
 /* Ahmad Abdelghaffar*/
 
+header {
+margin: 1rem;
+padding: 1rem;
+}
+
+nav {
+
+}
+
+main {
+
+}
+
+aside {
+
+}
+
+footer, header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    display: flex;
+}
