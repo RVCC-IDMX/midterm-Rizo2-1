@@ -27,4 +27,7 @@ footer, header {
 
 body {
     display: flex;
+    border-color: #886644;
+    margin: 2rem;
+    padding: 2rem;
 }
